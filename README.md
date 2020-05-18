@@ -29,7 +29,7 @@ Icon on Homescreen
 
 #APIs and Structure
 The application makes use of the Glide API to load images from the web, and uses the OkHttp API to pull the imageUrls from an online 
-database that was created by backend developer Andrew Zeng. Andrew's backend database stores links to the images which are hosted on
+database that was created by backend developer Andrew Zeng (in backend class). Andrew's backend database stores links to the images which are hosted on
 Github, from which I make get requests to.
 
 #Compatability
