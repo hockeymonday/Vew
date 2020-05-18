@@ -9,7 +9,7 @@ Because the images load in full resolution when clicked on, stable internet conn
 The application is complete with a Dark Theme feature as well!
 
 #Screenshots
-![Alt text](Screenshots/Screenshot_1589768111.png?raw=true "Dark Theme Interface")
+![Alt text](Screenshots/Screenshot_1589768111.png "Dark Theme Interface")
 ![Alt text](Screenshots/Screenshot_1589768056.png?raw=true "Light Theme Interface")
 ![Alt text](Screenshots/Screenshot_1589768088.png?raw=true "Set Wallpaper Screen")
 ![Alt text](Screenshots/Screenshot_1589768208.png?raw=true "Splash Screen")
