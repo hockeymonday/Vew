@@ -9,7 +9,14 @@ Because the images load in full resolution when clicked on, stable internet conn
 The application is complete with a Dark Theme feature as well!
 
 #Screenshots
-![Alt text](/Vew/Screenshots/Screenshot_1589768202.png?raw=true "Icon on Homescreen")
+![Alt text](Screenshots/Screenshot_1589768111.png?raw=true "Dark Theme Interface")
+![Alt text](Screenshots/Screenshot_1589768056.png?raw=true "Light Theme Interface")
+![Alt text](Screenshots/Screenshot_1589768088.png?raw=true "Set Wallpaper Screen")
+![Alt text](Screenshots/Screenshot_1589768208.png?raw=true "Splash Screen")
+![Alt text](Screenshots/Screenshot_1589768202.png?raw=true "Icon on Homescreen")
+
+
+
 
 #APIs and Structure
 The application makes use of the Glide API to load images from the web, and uses the OkHttp API to pull the imageUrls from an online 
