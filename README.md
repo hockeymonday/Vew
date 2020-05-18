@@ -8,6 +8,9 @@ Because the images load in full resolution when clicked on, stable internet conn
 
 The application is complete with a Dark Theme feature as well!
 
+#Screenshots
+![Alt text](/Vew/Screenshots/Screenshot_1589768202.png?raw=true "Icon on Homescreen")
+
 #APIs and Structure
 The application makes use of the Glide API to load images from the web, and uses the OkHttp API to pull the imageUrls from an online 
 database that was created by backend developer Andrew Zeng. Andrew's backend database stores links to the images which are hosted on
